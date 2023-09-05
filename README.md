@@ -1,7 +1,7 @@
 ### Olá, meu nome é Wiliam! 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="50"/>
 </div>
 
 - 🌱 No momento estou aprendendo a manipular páginas JSP usando Spring MVC, JavaScript, HTML/CSS estudando pela COTI Informática ...
