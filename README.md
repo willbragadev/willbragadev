@@ -1,16 +1,16 @@
 ### Olá, meu nome é Wiliam! 👋
 
 <div id="header">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="120"/>
 </div>
 
-- 🌱 No momento estou aprendendo a manipular páginas JSP usando Spring MVC, JavaScript, HTML/CSS estudando pela COTI Informática ...
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNICARIOCA ...
-- 📫 Entrando em contato comigo: willfbraga@hotmail.com !
-- 🔎 Em busca de uma oportunidade como dev junior ...
+- 🌱 No momento estou aprendendo a manipular páginas JSP usando Spring MVC, JavaScript, HTML/CSS estudando pela COTI Informática.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNICARIOCA.
+- 📫 Contato: willfbraga@hotmail.com
+- 🔎 Em busca de uma oportunidade como dev junior.
 - 😄 Gosto de Programação, astronomia, séries, música e futebol!
 
-  -
+<hr>
 
 -  O que utilizo nos meus repositórios.
 <div>
