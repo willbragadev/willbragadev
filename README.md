@@ -1,6 +1,8 @@
 ### Olá, meu nome é Wiliam! 👋
 
-![image](https://github.com/willbragadev/willbragadev/assets/79495202/0b9093be-1b7a-43ea-aff3-0fbec39022ab)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
+</div>
 
 - 🌱 No momento estou aprendendo a manipular páginas JSP usando Spring MVC, JavaScript, HTML/CSS estudando pela COTI Informática ...
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNICARIOCA ...
