@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/>
 </div>
 
-- 🌱 No momento estou aprendendo a manipular banco de dados PostgreSQL usando páginas JSP usando Spring MVC, JavaScript, HTML/CSS estudando pela COTI Informática.
+- 🌱 No momento estou aprendendo automações em Python.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNICARIOCA.
 - 📫 Contato: willfbraga@hotmail.com
-- 🔎 Em busca de uma oportunidade como dev junior.
+- 🔎 Em busca de uma oportunidade como dev.
 - 😄 Gosto de Programação, astronomia, séries, música e futebol!
 
 <hr>
